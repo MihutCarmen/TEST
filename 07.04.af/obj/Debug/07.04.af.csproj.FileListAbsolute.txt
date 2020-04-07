@@ -1,0 +1,6 @@
+C:\Users\sory\source\repos\07.04.af\bin\Debug\07.04.af.exe.config
+C:\Users\sory\source\repos\07.04.af\bin\Debug\07.04.af.exe
+C:\Users\sory\source\repos\07.04.af\bin\Debug\07.04.af.pdb
+C:\Users\sory\source\repos\07.04.af\obj\Debug\07.04.af.csprojAssemblyReference.cache
+C:\Users\sory\source\repos\07.04.af\obj\Debug\07.04.af.exe
+C:\Users\sory\source\repos\07.04.af\obj\Debug\07.04.af.pdb
